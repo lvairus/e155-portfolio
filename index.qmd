@@ -1,0 +1,16 @@
+---
+title: "E155 Portfolio"
+image: images/headshot.jpeg
+about:
+    template: jolla
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/lauravairus/
+        - icon: github
+          text: Github
+          href: https://github.com/lvairus
+---
+
+Laura Vairus is a student at [Harvey Mudd College](https://hmc.edu) majoring in Computer Science. 
+They enjoy problem-solving and are interested in tech for good. 

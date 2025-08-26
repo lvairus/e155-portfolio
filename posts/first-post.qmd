@@ -1,0 +1,12 @@
+---
+title: "Hello Quarto"
+description: "Welcome to my first blog post"
+author: "Laura Vairus"
+date: "8/25/25"
+categories:
+  - reflection
+  - labreport
+draft: false
+---
+
+first post text
