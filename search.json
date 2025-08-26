@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "E155 Blog",
+    "section": "",
+    "text": "Hello Quarto\n\n\nWelcome to my first blog post\n\n\n\n\n\nAug 25, 2025\n\n\nLaura Vairus\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "first post text"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "E155 Portfolio",
+    "section": "",
+    "text": "Laura Vairus is a student at Harvey Mudd College majoring in Computer Science. They enjoy problem-solving and are interested in tech for good."
+  }
+]
