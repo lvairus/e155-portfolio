@@ -1,12 +1,11 @@
 ---
-title: "Hello Quarto"
-description: "Welcome to my first blog post"
+title: "Inital Reflections"
+description: "initial reflections, goals for the semester in MicroPs"
 author: "Laura Vairus"
-date: "8/25/25"
+date: "8/29/25"
 categories:
   - reflection
-  - labreport
 draft: false
 ---
 
-first post text
+My goals in MicroPs are to learn more about digital electronic systems and build my own project! My initial idea for a project is to make a custom soundboard because I love repeating vocal stims and I think it would be funny and extremely fun to have my own soundboard. However, I don't know if that would be too easy or hard for the scope of this class so I might change or tweak it later. I'm also a CS major and I wanted to develop at least some skills that aren't as easily replaceable by artificial intelligence. 

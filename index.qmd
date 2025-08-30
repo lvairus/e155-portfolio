@@ -12,5 +12,5 @@ about:
           href: https://github.com/lvairus
 ---
 
-Laura Vairus is a student at [Harvey Mudd College](https://hmc.edu) majoring in Computer Science. 
-They enjoy problem-solving and are interested in tech for good. 
+Laura Vairus is a student at [Harvey Mudd College](https://hmc.edu) majoring in Computer Science. \
+They enjoy problem-solving, hands-on projects, and are interested in tech for good. 
